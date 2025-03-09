@@ -86,7 +86,10 @@ Check out our **latest blogs** and level up your skills!
 30. [Contribute to the Ultimate JavaScript Project – 500+ Open Source Ideas!](https://www.thecampuscoders.com/blogs/ultimate-js-project-500-ideas)  
     _A massive collection of JavaScript project ideas to build your portfolio._  
 31. [Celebrating 75,000+ Views: A Huge Milestone for Our Tech Community! 🚀🎉]()  
-    _A big thank you to our readers for supporting The Campus Coders!_  
+    _A big thank you to our readers for supporting The Campus Coders!_
+
+32. [ICC-CT Final Tech: How JioCinema & Hotstar Handled Millions of Viewers](https://www.thecampuscoders.com/blogs/icc-ct-final-tech-streaming)
+   The ICC-CT Final between India and New Zealand had a record-breaking 80+ crore concurrent viewers, making it one of the biggest live-streamed events in history. But how did streaming platforms handle this massive traffic without crashing?
 
 ---
 
